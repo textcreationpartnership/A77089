@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A rope for a parret, or, a cure for a rebell past cure. Being an appendix or rejoynder, to A caveat to all people of the kingdom, in answer to Mercurio cœlico mastix, a scandalous and scurrilous pamphlet lately published by that arch turn-coat, George Naworth, sometimes a calculator for the bishoprick of Durham, and now an infamous lying chronologer at Oxford.</title>
+            <author>Booker, John, 1603-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77089</idno>
+            <idno type="STC">Wing B3730</idno>
+            <idno type="STC">Thomason E253_5</idno>
+            <idno type="STC">ESTC R210081</idno>
+            <idno type="EEBO-CITATION">99868912</idno>
+            <idno type="PROQUEST">99868912</idno>
+            <idno type="VID">159148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159148)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E253[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A rope for a parret, or, a cure for a rebell past cure. Being an appendix or rejoynder, to A caveat to all people of the kingdom, in answer to Mercurio cœlico mastix, a scandalous and scurrilous pamphlet lately published by that arch turn-coat, George Naworth, sometimes a calculator for the bishoprick of Durham, and now an infamous lying chronologer at Oxford.</title>
+                  <author>Booker, John, 1603-1667.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Partridge.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1643/4. March. 6. [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Jo. Booker.</note>
+                  <note>George Naworth = Sir George Wharton.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wharton, George, --  Sir, 1617-1681. --  Mercurio-coelico mastix.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159148:1" rendition="simple:additions"/>
+            <p>A ROPE FOR A PARRET, OR, A Cure for a Rebell paſt Cure.</p>
+            <p>BEING An <hi>Appendix</hi> or <hi>Rejoynder,</hi> to <hi>A Caveat</hi> to all People of the KINGDOM, In Anſwer to <hi>Mercurio Coelico Maſtix,</hi> A Scandalous and Scurrilous Pamphlet lately publiſhed by that Arch Turn-Coat, <hi>George Naworth,</hi> Sometimes a <hi>Calculator</hi> for the Biſhoprick of DURHAM, and now an Infamous Lying <hi>Chronologer</hi> at OXFORD.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Partridge.</hi> 1643/4. <hi>March.</hi> 6.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159148:2"/>
+            <pb n="1" facs="tcp:159148:2"/>
+            <head>A Rope for a Parret, Or<note n="*" place="margin">A Rope.</note> a cure for a Rebell paſt Cure.</head>
+            <opener>
+               <salute>Mr. <hi>Geor. Naworth,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know you not, and therefore much wonder you ſhould with that wicked impu<g ref="char:EOLhyphen"/>dence (through my ſides) ſo violently ſeek to wound the Parliament, and in it the whole Kingdom, Religion, Law, Libertie, <hi>&amp;c.</hi> You defame his <hi>Execellency,</hi> the Parliaments <hi>Lord Generall,</hi> the Lord <hi>Say,</hi> the Lord <hi>Wharton, &amp;c.</hi> Nay, you cannot ſpeak well of the dead, the worthy Patriot of his Countrey Mr. <hi>Pym;</hi> Take heed his Ghoſt appear not at <hi>Oxford,</hi> and drive you all thence very ſhortly. But what ſhall I ſay to thee, thou lying <hi>Tongue, can no man tame, it is an ungodly, evill, full of deadly poyſon, Jam.</hi> 3.8. You are one of the Generation of <hi>Vipers;</hi> read the third to the <hi>Romans,</hi> from the beginning of the tenth verſe, to the end of the eighteenth: You are one of thoſe very people; your name may be turned many wayes, and you are ſo like in every reſpect, that unleſſe one of you, or all of you come to <hi>London,</hi> and take the <hi>Nationall Covenant,</hi> and ſubſcribe your true name, I ſhall miſtake one Knave for another: Your friend <hi>Aulicus</hi> is ſometimes like a Sculler, and his brother <hi>Aquaticus</hi> together, make uſe of Oars; you row all alike, with your faces from <hi>London,</hi> and your backs to <hi>Oxford,</hi> for you dare not do otherwiſe: You <hi>George Naworth,</hi> with your two Brethren, are <hi>Homines trium literarum;</hi> If you love ſcolding ſo well at <hi>Oxford,</hi> there ſhall be a Cucking-ſtool ready for you at <hi>Belinſgate,</hi> one after another: <hi>He that is born to be hanged, needs not fear drowning,</hi> as ſome of you (I mean <hi>Aquaticus</hi>) have ſcapt many times be<g ref="char:EOLhyphen"/>twixt the Old Swan, the Banke ſide, or ſome of thoſe places, and <hi>Whitehall.</hi> Tell your two Brethren and the reſt of your friends, <hi>Solamen miſeris ſoci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os habuiſſe dolore.</hi>
+            </p>
+            <p>You tell me, you are not fearfull I ſhould calculate the nativitie of your infamous Chronologie, No! I know that well enough, becauſe I know it was conceived when the Mother was troubled with —, and the Father had the —. I pray thee be not aſhamed of thy own Nativitie.</p>
+            <p>Was not thou born when moſt of the Planets, eſpecially the Luminaries were in Con<g ref="char:EOLhyphen"/>junction (and much afflicted by an Oppoſition of <hi>Mars</hi>) with <hi>Caput Gorgonis, Meduſae, Raſ<g ref="char:EOLhyphen"/>dalgol, Diaboli, in domo Mortis;</hi> read <hi>Cardaen's Aphoriſmes Segmont. 6. circa Medium.</hi> The in<g ref="char:EOLhyphen"/>fluence is almoſt Verticall over <hi>Oxford.</hi> Remember the Lord <hi>Strafford</hi> but once more, I be<g ref="char:EOLhyphen"/>leeve he had that Configuration in his Nativitie in <hi>Medio Coeli;</hi> you know what a diſmall Aſpect he had; <hi>Caput Algol</hi> was in his very forehead; what a <hi>Burgundian, Gregorian</hi> back blow he received. I wiſh all <hi>Byrons,</hi> all <hi>Hiſpaniolized Dons, Frenchified Monſieurs,</hi> all <hi>Romanized Engliſh</hi>-men, to take heed, leſt their heads <hi>Hop</hi> off their ſhoulders: I rather beleeve thou hadſt the Dragons tayl in Conjunction with thoſe diſmall Starres, <hi>Saturn</hi> and <hi>Mars,</hi> in thy Aſcendent in ſome Aeriall Sign; For thy breath ſtinks, and thou haſt a very foul mark in thy mouth: Thou knoweſt how ſtrangely they dye that have this Conſtellation. If I be miſtaken in my Judgement, ſend me the time when thou wa'ſt born, I deſire not to know the place, (for I hope the <hi>Scots</hi> will keep thee from ever returning to <hi>Durham.</hi>) And Ile try, if by <hi>Trutina Hermetis,</hi> I can finde <hi>An ſis legitimus filius;</hi> Sure thou hadſt a Father, or elſe how
+<pb n="2" facs="tcp:159148:3"/> cam'ſt thou at <hi>Oxford? Cum Videris quod Decreta patris non Evenerint ei, quod nutrit Filium tanquam ſuum, tertus eſſe debes, quod Adulterinus <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t.</hi> The Tree is known by the fruit; and if I finde my <hi>Trutina</hi> hit, then the Lord have mercy upon thee.</p>
+            <p>As for the word <hi>Rebell,</hi> I tell thee <hi>Rogue</hi> (it is thy own name) I can give thee no other Title; and I meant thee, and all thy Adherents, that have thus rent (almoſt in peeces) the moſt flouriſhing Kingdom in the Chriſtian World: Rent ſaid I? You have devided the King from His Parliament; the Head from the Body; of which Body, you are a rotten Member (tis a part of your name) and many more ſuch like as your ſelf; all of you muſt be cut off, or elſe there will be a grievous pain in the Head; and when the Head is unquiet, akeing, and diſtempered? In what condition is the reſt of the Body; I bid you not ask your Quacks, your Empericks at <hi>Oxford,</hi> they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l intoxicate the Head, and deſtroy the Body; No, I heartily and hourly pray God that the King would return to His Parliament at <hi>Weſtminſter,</hi> where under God, both the Head and the reſt of the Body, by the wholſome Advice and Councell of (I tell thee again) this thrice honoured, never to be forgotten Parliament it <hi>Weſtminſter,</hi> where the true Phyſitians and Chirurgians of the Kingdom, are in daily Conſultation, maugre all your oppoſite malice at <hi>Oxford,</hi> and will cure (in time) all the diſtempers and diſtractions thereof. But they have already Voted, and reſolved to cut you, and many more ſuch rotten Members as your ſelf off, that the reſt may be preſerved.</p>
+            <p>You tell me that I happened to be miſtaken in a figure once, erected for a Mercer of <hi>Wakefield</hi> in <hi>Yorkeſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire,</hi> many ſtrange lyes have been fathered upon me, the beſt of it is, it will not own me, nor <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it; If the man and his wife be reconciled, and left their own home, to live at <hi>Oxford,</hi> it is an ill <hi>Omen;</hi> I can make <hi>Anagrams</hi> as well <hi>Aſſe</hi> your ſelf, you ſhall ſee by and by, <hi>Nemo,</hi> It wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome ſuch Body: But ſuppoſe there was ſuch a miſtake; It may be the queſtion was Radicall with you, and having erected a figure for the woman, ſhe confeſſed where the money was; Take heed you ſpend not your Radicall humours thus vainly, thus wantonly, thus laviſhly; Fine doings at <hi>Oxford</hi> you agree like Cats and Dogs; But I am ſure you divide the King from His Parliament, and ſet the Kingdom againſt itſelf.</p>
+            <p>You tell me of one, who in his learned Book, written in defence of Aſtrology againſt Maſter <hi>Chambers,</hi> that condemnes Horary Queſtions: I know that learned Author Sir <hi>Chriſtopher,</hi> you know his other name better then I; you <hi>Judas,</hi> you long to be Chambered, I ſhall make you cry Hey down, by and by; If you move a queſtion once more, I fear me it will prove Radicall indeed, in ſuch an hour that you would know your fatall deſtiny; I will tell it you anon.</p>
+            <p>Thou ſayeſt Rebellion is as the ſin of Witchcraft; I confeſſe it, and I verily beleeve the Conjurers at <hi>Oxford</hi> have raiſed all the devils in Hell (a Black Regiment.) For ſince they caſt their figure, made their circle about <hi>Oxford,</hi> they have raiſed, fetcht over more Barba<g ref="char:EOLhyphen"/>rous Inhumane bloody Iriſh Rebels, then ever was in <hi>England,</hi> ſince the confuſion of Lan<g ref="char:EOLhyphen"/>guages; Nay, they have not onely raiſed the Devills in <hi>Ireland,</hi> but many turbulent Spirits in <hi>England,</hi> and if God prevent them not, they will inflame all Chriſtendom, all the World, for the Devill hath been let looſe for a ſeaſon, but we may ſee by his raging, his time is but ſhort; you are excellent proficients in Conjuration and Witchcraft at <hi>Oxford,</hi> many of you commence Doctors, remember <hi>Fauſtus, Lopuz, &amp;c.</hi>
+            </p>
+            <p>You tell me I am extreme capable to apprehend, and finde a thing before I hear or ſee it, or elſe I could never have found <hi>Cain</hi> or <hi>Cannibal</hi> in all your Book (your lying <hi>Almanack,</hi>) I confeſſe, I did not finde either of them there, but reading the word <hi>Rebel</hi> ſo often there, I thought upon <hi>Cains</hi> and <hi>Cannibals,</hi> and <hi>Iriſh Rebels,</hi> and <hi>Traytors,</hi> and <hi>Naworths,</hi> and <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>worths,</hi> and <hi>Rogues,</hi> and now at laſt I have found out a way to make one of you.</p>
+            <p>You bid me remember what the Earl of <hi>Strafford</hi> ſaid at his death: yes I do, and had you been the ſame day carryed in a Cart from <hi>Newgate,</hi> up <hi>Holborne,</hi> to <hi>Tiburne,</hi> (I cannot endure theſe <hi>Ornes,</hi> and theſe <hi>Vrnes,</hi>) I would have left <hi>Tower Hill,</hi> for I am not <hi>Vir Sangui<g ref="char:EOLhyphen"/>num,</hi> I do not love to ſee Heads lopt off, (this is leap yeer) I had rather ſee the fruit (your<g ref="char:EOLhyphen"/>ſelf) hang on the Tree.</p>
+            <pb n="3" facs="tcp:159148:3"/>
+            <p>You bid me take heed I come not to <hi>Oxford</hi> as a <hi>Spye,</hi> leſt the vigilant Governour make me curſe my Aſcendant; I tell thee I am otherwiſe imployed, then to come to <hi>Oxford,</hi> yet I thank thee for thy Councell, <hi>I ſee day at a little hole;</hi> you may chance loſe your eyes, when you put your head through one a little bigger, a <hi>Rope;</hi> I ſpy out your Knavery: Call you him vigilant Governour? I pray thee what is his name in your Rebellious Catechiſme? Is he not a Papiſt? He and I have contrary Aſcendants, we ſhall never agree, <hi>Procul a Jove, procul a fulmine;</hi> Ile give thee the like advice, Take heed you come not within the ſound of <hi>Bow Bell,</hi> for fear there be a <hi>Gibbet</hi> (or <hi>Crog-Bren,</hi> the <hi>Welſh</hi> her can <hi>Engliſh</hi> it,) ſet up for you where <hi>Cheapſide Croſſe</hi> (I told you before) once ſtood; nay, rather beware of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouſe</hi> in <hi>Cornehill,</hi> where one of your friends, miſtaking his way from <hi>Oxford,</hi> going up a Ladder, had a Cap pulled over his eyes againſt the <hi>Exchange,</hi> and was hanged for a <hi>Spye.</hi>
+            </p>
+            <p>Thou talkeſt of differences of Latitudes and Longitudes, of <hi>Oxford</hi> and <hi>Durham,</hi> of <hi>London</hi> and <hi>Fraucofurt;</hi> I tell thee the greateſt difference betwixt any two places, now in the Chriſtian World, is between <hi>Oxford</hi> and <hi>London: Very ſtrange!</hi> For you at <hi>Oxford</hi> have divided the King from His Parliament at <hi>London,</hi> and have ſet three Kingdoms (thou <hi>Homo trium Literarum,</hi> thou <hi>Homo Trioboli</hi>) together by the Ears; I am no <hi>Carpenter,</hi> nor <hi>Heylin,</hi> nor will be of any your Religions, till you be reformed. But I am almoſt per<g ref="char:EOLhyphen"/>ſwaded to be of <hi>Copernicus</hi> his opinion (thou Brazen Noſe) and hope (ſince there is no diffe<g ref="char:EOLhyphen"/>rence between <hi>England</hi> and <hi>Scotland,</hi> in reſpect of the <hi>Nationall Covenant</hi>) that all the World will ſhortly turn round; Return you <hi>Rattle Head,</hi> for we ſhall have a <hi>Spring</hi> at <hi>London,</hi> when it is fall of Leaf at <hi>Oxford.</hi>
+            </p>
+            <p>You tell me the Schollers in <hi>Oxford</hi> long to ſee and diſpute with me, whether <hi>Newcaſtle</hi> Coal be the Element of Fire, or not. Diſpute with the Schollers at <hi>Oxford!</hi> No! <hi>Cambridge</hi> is neerer: I wonder how many Wayn load of wounded Schollers, or Cart-load of their dead Carkaſſes were brought from the Battles of <hi>Keynton</hi> or <hi>Newbury</hi> to <hi>Oxford,</hi> tell me, and you ſhall ſee ſome part of my Arithmetick in Subſtraction, if you uſe not the Rule of falſe<g ref="char:EOLhyphen"/>hood, you <hi>Logarithme,</hi> you <hi>Birken, Buffle, Rattlehead, vel Quocunque nomine Apellaris. New<g ref="char:EOLhyphen"/>caſtle</hi> Coal the Element of fire, No? But had you ſome at <hi>Oxford?</hi> You have an Art there, can make two Eggs three; you can transforme all the Elements, by your Reaſonleſſe Rail<g ref="char:EOLhyphen"/>ings, and chopt Logique; you can make a true Parliament at <hi>London,</hi> to be counterfeit one at <hi>Oxford;</hi> you can pretend Parliaments, but you never mean to come heer; you counter<g ref="char:EOLhyphen"/>feit to be tryed, you dare as ſoon be hanged; I hope we ſhall tell you ſhortly from <hi>London</hi> what <hi>Newcaſtle</hi> Coal is</p>
+            <p>You dream of the fire of Purgatory, It is an Article of your Creed; but take heed you deſcend not <hi>Ad Inferes,</hi> from whence there will be no Redemption; You are a <hi>Pythago<g ref="char:EOLhyphen"/>rean,</hi> and talk of the <hi>Tranſmigration</hi> of <hi>Souls;</hi> I pray thee tell me, how many are at <hi>All Souls,</hi> ſince the two Battles I told you of, I am afraid to come to <hi>Oxford,</hi> there will be a <hi>Reſurrecti<g ref="char:EOLhyphen"/>on</hi> there this Spring; I dare not meet ſuch Spirits or Ghoſts, as ſome of you will be ſhortly.</p>
+            <p>You ſpeak of Effects of a contrary nature, as if the Conjunction of <hi>Jupiter</hi> and <hi>Mars</hi> did not often ſo operate by their influences; Yes! One man's fall is another mans riſing, many times; you may be hanging on a Gallows, and I ſtand beneath, to ſee your neck ſet awry, when your friends pull you by your Legs, to put you out of your pain.</p>
+            <p>You talke of <hi>Hull,</hi> Ile tell you, that place is to keep you out, and then by and by, you think of <hi>Hel,</hi> That place is prepared for you, to let you in, and all other thy Companions; remember three letters hereafter.</p>
+            <p>You talke of the Oppoſition of the Sun and <hi>Mars,</hi> and ſtill are afrighted at <hi>Keynton</hi> Battle, I told you before; the Cauſe precedes the Effect, if the Conjunction hapned the twentie two day, you know what followed the twenty three day; you are a Rebell indeed; you will not leave till <hi>Britannicus</hi> hath beat out your Brains with his Battle Axe: Remember <hi>Caverſham</hi> Bridge, and <hi>Brainford,</hi> from whence you ran away.</p>
+            <p>You cry, alas what miſchief did <hi>Cheapſide Croſſe</hi> do; I told you once before, I bid you
+<pb n="4" facs="tcp:159148:4"/> beware that <hi>Bow Bell,</hi> or <hi>Rouſe,</hi> or <hi>Sepulchers</hi> do not ring a Knell for you, and the Iriſh Rebels, who will cry in a pitifull tone ſhortly, <hi>O hone.</hi>
+            </p>
+            <p>In another place you talk of looking thorpw a Mill-ſtone, &amp;c. and that I go about to confirm your Predictions; and that I conclude them ſomewhat abruptly, with an <hi>&amp;c.</hi> I pray thee remember thy ſelf in thy <hi>Almanack</hi> for 1642. in thy Epiſtle to the Reader, in thy Verſes after thy Judgement of the Eclipſes; yea, and in the remainder of thy Judgement after that <hi>&amp;c.</hi> thou ſayſt I made: Let me ſee the Fire-brands you ſpeak of, the Inſurrections, The intended Invaſion of the <hi>Scots;</hi> the Book is to be ſeen: I'll tell thee that <hi>Bellum Epiſco<g ref="char:EOLhyphen"/>pale</hi> was raiſed by the <hi>Prelats, Papiſts, Atheiſts, &amp;c.</hi> you have confirmed your own Predi<g ref="char:EOLhyphen"/>ctions very well, have you not? yes, and you ſhall finde the diſpleaſure of the <hi>Scots,</hi> and then what will become of your <hi>Ave Maries?</hi> It is true, it muſt needs be, that <hi>offences muſt come, but woe be to that man by whom the offence cometh, it were better that a Mill ſtone were hanged about his neck, and that he were drowned in the depth of the Sea.</hi> But you need not fear drown<g ref="char:EOLhyphen"/>ing; a Rope you do.</p>
+            <p>In your marginall Notes you quote Statutes: I pray thee let Statutes alone; for they are making ſuch Ordinances at <hi>London,</hi> that you will be forced ſhortly to leave your Acts at <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> behinde you: Anſwer M. <hi>Prynne,</hi> who will call you to an account for corrupting the Statutes.</p>
+            <p>In another Marginall Note you bid me let Latine alone. I tell thee, <hi>G. N. Coeg-Bobl.</hi> are thy companions at <hi>Oxford;</hi> ask the inhumane bloody Iriſh Rebells what's the Engliſh of it: if they cannot tell thee, the barbarous and heatheniſh Welch can; for it is as naturall to them, as milk is to a Calf. I need not be a <hi>Ductor in Linguas;</hi> for there is with you ſome, I think, of every Nation, beſides the Iriſh: You ſee I can ſpell ſomething elſe beſides Latine, and hope to ſee the time when you may come to your neck-verſe. You Puppy, You <hi>hic, haec, hoc;</hi> You <hi>qui, quae, quod,</hi> You Neuter, You Commune of two, of three; You Doubt<g ref="char:EOLhyphen"/>full, you Epicene Gender: <hi>Tu quae Genus, Tu Heterocliton, Tu Disjunctive, Tu Metatheſis, Tu Anti<g ref="char:EOLhyphen"/>theſis, Tu Apocope, Tu Paragoge;</hi> Thou <hi>Aulicus,</hi> Thou <hi>Aquaticus,</hi> Thou <hi>Mercury very Ridiculous,</hi> Thou <hi>Bloxford flye,</hi> Thou <hi>Moon calfe,</hi> born that very hour, on that very diſmall fifth day of the moneth (you remember the Gun-powder Treaſon) when thy brother <hi>G. Faux</hi> was caught with a dark Lanthorne; Thou <hi>Vocativo ô Georgi,</hi> Thou <hi>qui mihi diſcipulus,</hi> Thou <hi>As in praeſenti, perfectum format, Ut no, nas, Naworth Georgi te Vocitavi:</hi> I pray thee help me to make a true Verſe of it; but it cannot be done handſomely, till <hi>Ge:</hi> be made ſhorter by the head, or his neck ſtretcht longer with a halter: It was your own Latine, when I tranſcribed it out of your <hi>Almanack.</hi> Thou haſt eyes like an Owl: I know who <hi>quae</hi> ſignifies, and the difference between that and <hi>qua.</hi> I ſee now, the way to be a meer Aſſe, is to be a meer Univerſity-Schollar: All the <hi>Errata's</hi> that are made at <hi>Oxford,</hi> are yours, not the Printers; it is quite contrary with us at <hi>London;</hi> and yet <hi>Lapſus manus non eſt Error mentis.</hi> There hath been, now is, and ſhall be <hi>vi ia Scriptorum</hi> in the Schools, when you ſhall be expelled the Univerſity.</p>
+            <p>Another Note you have margin'd, and ſay the Pope is glad at the demoliſhing of <hi>Cheap<g ref="char:EOLhyphen"/>ſide Croſſe</hi> (this Croſſe ſticks in your ſtomacks) And that he will be a gainer by it. I pray thee reade the Popes Deſtiny; you ſhall finde it in the <hi>Sybills-Oracles,</hi> cited by that learned <hi>Napeir</hi> Lord of <hi>Marchiſtoun</hi> in <hi>Scotland,</hi> after his plain diſcovery of the whole <hi>Revelation</hi> of S. <hi>John,</hi> which he dedicated to King <hi>James,</hi> 1593. The words I would have you remember are theſe:
+<q>
+                  <l>For in a <hi>Rope</hi> his ending ſhall he make,</l>
+                  <l>The potent people and the<note place="margin">Rome.</note> Towne ſhall wracke.</l>
+               </q>
+            </p>
+            <p>The reſidue of that, and the reſt of that Book you may reade at leiſure (if your Go<g ref="char:EOLhyphen"/>vernour at <hi>Oxford</hi> will ſuffer you; but I believe he is too vigilant: Hath he not procured an <hi>Index expurgatorius</hi> for it?) and then ask the Pope, your unholy Father, how he is pleaſed with a <hi>Rhythmus,</hi> tuned after a pair of <hi>Scotch Bag pipes.</hi>
+            </p>
+            <p>You tell me the Schollars had a very good opinion of my skill, ſince that yeer I prog<g ref="char:EOLhyphen"/>noſticated how fallacious and wantonly diſpoſed young women were likely to be. I know
+<pb n="5" facs="tcp:159148:4"/> many of you Schollars are <hi>St-Prieſts:</hi> But I pray thee tell me what yeer of our Lord it was, and I'll ſearch who did Penance for having of two Baſtards in one yeer, if the Records be not imbezzelled, and carryed to <hi>Oxford;</hi> it is moſt like they are there, where that <hi>Anti<g ref="char:EOLhyphen"/>chriſtian Rabble</hi> of the late Spirituall Court now reſide: I was born in <hi>Mancheſter,</hi> where if thou wilt go, they will uſe thee kindely for my ſake: But <hi>O Strange, Derby</hi> is in the way: I have a ſiſter in <hi>Mary-Land,</hi> what her faults may be I know not; are you without at <hi>Ox<g ref="char:EOLhyphen"/>ford?</hi> This Countrey is a parcell of fruitfull earth, and was ſometimes (I ſuppoſe) a part of <hi>Virginia, Nova-Francia, Hiſpaniola, New-England,</hi> or ſome of thoſe Iſlands; but now the Seas have part them, the German, and other Oceans are betwixt us and them: it lies between the Latitudes of 38 and 40 North; but what Longitude it hath I know not, about 300, <hi>&amp;c.</hi> I pray thee, let it be 666: But now I think on't, the greateſt Longitude is no more then 360. Let Longitude alone. The Lord <hi>Baltimore</hi> (a Papiſt) had a Patent for it, and in the yeer 1634 named the Countrey <hi>Mary-Land;</hi> and the Town which before was named by the <hi>Indians, Yoacomaco,</hi> he named, St. <hi>Maries Auguſta Carolina.</hi> That very yeer in which that Antichriſtian Arch-Prelate, <hi>Will: Laud,</hi> the Archbiſhop of <hi>Canterbury</hi> (the nume<g ref="char:EOLhyphen"/>rall Letters of which name make the number of the Beaſt, 666) together with his Aſſociates, the bloody Inquiſitors of the late High-Commiſſion Court, ſummoned me thither, que<g ref="char:EOLhyphen"/>ſtioned me for my Almanack 1633, fined me 500 <hi>l.</hi> ſuſpended me from writing, and impriſoned me eight weeks in the Gate houſe. But where is his little <hi>Grace</hi> now? in the Tower. And what is become of the High-Commiſſion Court? <hi>So let thine enemies periſh, O Lord.</hi>
+            </p>
+            <p>What Baſtards were got or born that yeer, 1634. I am ignorant of; But I have heard that in <hi>Mary land</hi> the Hoggs and Poultry are much encreaſed; And although the <hi>Scots</hi> will not go thither to eat the fleſh of thoſe Beaſts, I hope they will help to unrouſt the Poultry at <hi>Oxford.</hi> Take heed, <hi>G. N.</hi> that theſe two Baſtards be not there; one of them may chance be a <hi>Goodcoale,</hi> an Ordinary to look over your left ſhoulder, when you cannot reade <hi>Miſe<g ref="char:EOLhyphen"/>rere mei:</hi> And the other ſhall be (a name-ſake of one of your friends, ſometimes Pope) a <hi>Gregory</hi> to look over yo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> right ſhoulder when you are hanging: you know <hi>Tyburne</hi> ſtands where it did, though <hi>Cheapſide Croſſe</hi> do not.</p>
+            <p>I know not what you mean by my cunning in making of Circles, of Croſſes, of Coynes, or round things, <hi>&amp;c.</hi> But you have made a Nooſe for your neck, and I have made <hi>A Rope for a Paaret,</hi> a Prater, for you, <hi>G. N.</hi> you Anagram-maker.</p>
+            <p>Do not ſo wickedly, ſo ungratefully abuſe the Parliament the Lord Genreall, the Lord Admirall, the Aſſembly of Divines, the Scotch Commiſſioners, the Lord Maior, Alder<g ref="char:EOLhyphen"/>men, and Common-Councell-men of <hi>London,</hi> the meaneſt of whom is as much above thy malice as thy ſlanders.</p>
+            <p>You talk of <hi>Mariana's</hi> Book that was burnt at <hi>Paris,</hi> and wiſh that it were re-printed by Order, that it might perſwade ſome Rogue or other to attempt the Act to kill the King and Prince. <hi>Quecunque modo, &amp;c.</hi> Thou <hi>Cavillar,</hi> Thou <hi>Ravillac:</hi> There's a name, an Anagram for you, Mr. <hi>G. N.</hi> and the reſt of the Cavaliers. I beſeech your Majeſty look round about you; There be many ſuch <hi>Cavillars,</hi> many ſuch <hi>Ravillacs,</hi> many Jeſuites, Papiſts, bloody Iriſh Rebells, <hi>&amp;c.</hi> neer you: Think upon the untimely death of the Queens Father, <hi>Hen.</hi> 4. there are many Aſſaſſinates. You, <hi>George Naworth,</hi> I know no Rogue, no Regicide ſo likely as your ſelf, to do ſuch a bloody Act, had you but an Iriſh long knife, ſuch as the women brought from thence lately; how like <hi>Ravillac</hi> you would look? you remember his end: you love to make Anagrams, you ſhall have one, two, or three by and by, you <hi>homo trium literarum. Trioboli, &amp;c.</hi>
+            </p>
+            <p>You tell me that I am not yet out of my School Books, and that it were beſt for me to get to <hi>Lincolns</hi>-Inne and ſcrape Trenchers. I tell thee, I am, and that <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Horn Booke</hi> am ſent you <hi>George Naworth</hi> to learn you to ſpell by, and make Anagrams, I ſhall tell you your Fortune out of it by and by. As for the ſcraps of my Trencher, I left them behinde me at <hi>Lincolnes</hi>-Inne; I pray thee look in the Bog houſe there, where you ſhall finde ſpoon meat enough, I warrant you, as much as will fill an egge for your Breakfaſt that morning you receive this: And, if you ſtay a little longer at <hi>Oxford,</hi> you will be glad of ſome my ſcraps,</p>
+            <pb n="6" facs="tcp:159148:5"/>
+            <p>You are mightily given to miſtake, and miſ-call one name for another at <hi>Oxford;</hi> and you uſe many Languages there: and between Engliſh and Latine, you have made an Anagram of my name. You Romaniſts, you Schollars have nothing elſe to do: you were beholding to the Whore of <hi>Babylon,</hi> who hath taught you the Language of the Beaſt: I am ſure ſome part of it is at <hi>Oxford,</hi> but it will not bite me: You have learnt, That <hi>h, proprie quidem litera non eſt, ſed Aſpirationis nota;</hi> yet I ſhall have an <hi>h</hi> in my name, when thou haſt no breath in thy body. The figure <hi>Caſura</hi> is more uſed in that letter then in any other; I pray thee, by <hi>Poetica licentia,</hi> grant it me, and then it will be thus, <hi>I be no Rooke:</hi> you ſee how you miſtake at <hi>Oxford.</hi> But becauſe I will not adde or diminiſh one letter, take the true Anagram of my name, which is, <hi>Honi-Brooke;</hi> ſo I have my <hi>h</hi> again. Thou haſt given me a new name, <hi>Maſtix;</hi> I tell thee, <hi>Maſtick</hi> is very good for thy Gummes, and being chawed in thy mouth, will purge malignant humours from thence: Now if thou wanteſt any Honey, thou mayeſt have Engliſh enough, from the place I make it, to ſweeten thy mouth: I was Chriſtned, but not in Raggs of Popery, as though wouldſt fain have me: Thou <hi>Es,</hi> if thou wert Chriſtned <hi>Georgius,</hi> and thy Fathers or thy Mothers name <hi>Naworth,</hi> thou haſt another name, it begins with a <hi>W,</hi> and ends with an <hi>N:</hi> Be not aſhamed of it, do not defile thy own neſt, hide not thy ſelf in a hole or a Saw-pit. Take this Anagram out of the ſame Language thou ſpeakeſt to me in, <hi>Georgius Naworth, Thou own's a Greg'ri:</hi> But becauſe I will give thee thy du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, thou was Chriſtned <hi>George,</hi> and thy Sirname <hi>Naworth,</hi> take theſe two <hi>Ana's, A <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> rot'n Rogue,</hi> or, <hi>Hang ô true Rogue:</hi> The ſenſe of which words are thus, <hi>Thou own's a Greg'ri, A huge rot'n Rogue.</hi> Theſe Anagrams thou mak'ſt, <hi>Hang ô true Rogue, Conveniunt Rebus nomin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaepe ſuis;</hi> Here's plain Engliſh, M. <hi>G. N.</hi> you ſee what you muſt truſt to, <hi>Reſpi e Funem,</hi> that's your end, and there <hi>I</hi> leave you. I told you before, That I ſhould make <hi>Naworth, No worth,</hi> and if the Rope hold, it will be too late to call <hi>George</hi> again; a living Dogge will be better then a dead Lion.</p>
+            <p>I have now done with you, <hi>G.N.</hi> onely me thinks I ſee you, what an ill-favoured name you have, how like a Rogue you look, <hi>Quiſque fortunae ſuae faber;</hi> who cries <hi>A</hi> and <hi>O</hi> now? I found you <hi>O Rogue,</hi> and I leave you in <hi>A Rope,</hi> where you ſhall make a wry mouth, thou man in the Moon. The time of Action is neer; the Spring is coming on apace, and therefore I have ſent you A Cure for your Malignancie; which if your Phyſitian <hi>Gregory</hi> perform not, you may do it your ſelf; It is no more but put a Rope about your neck, and a ſwinge or two, And ſo farewell and be hang'd.</p>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <div type="part">
+               <p>IF you be ſuch a fool as to reply, I will be ſo wiſe as not to ſurrejoyn: Onely if you will ſend me your Na<g ref="char:EOLhyphen"/>tivity, I will take as much pains as <hi>Lucius Bellantius</hi> did for that learned, but Arch-Anti Aſtrolo<g ref="char:EOLhyphen"/>ger, <hi>Picus Mirandula,</hi> and return you directions, whereby you may ſee in what a deſperate condit<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> you are. I confeſſe you have very long ears at <hi>Oxford,</hi> and you Intelligence from <hi>London</hi> is quicke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then ours from thence; And therefore ſo ſoon as I had yours, I drew up an Anſwer in as ſhort a time <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you ſpeak of: But you may ſee you hard deſtiny; mine bears dare, from</p>
+               <closer>
+                  <dateline>
+                     <hi>LONDON, the next day after the firſt of</hi> 
+                     <date>March, <hi>1643/4.</hi>
+                     </date> 
+                     <hi>Remember me to Frier</hi> Bacon, <hi>Brazen face,</hi> Time is paſt.</dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <p>I have made uſe (you ſee now) of that Text of Scripture you bid me, <hi>Proverbs the 26 and 5.</hi> and have anſwered you accordingly. Reade the <hi>109</hi> Pſalme, from the beginning of the ſecond Verſe, to the end of the twentieth; And do not abuſe it as you uſe to do <hi>(non bonum eſt ludere cum Sanctis)</hi> but apply it to your ſelf, and all the reſt of your ſtamp; lay you hand on your heart, it belongs properly to you, and is very neer the accompliſhment: The reſt of that Pſalme I have made uſe of as an Antidote againſt the Poyſon of your malignancy. The firſt Verſe may chance be a Pſalme of mercy for you (wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your time comes) in the old Miſſall of <hi>Salisbury</hi> (if you be capable of it) when the Biſhop of <hi>Newgate</hi> hears you ſay your Leſſon.</p>
+               <p>Georgius N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>worth. <hi>Anagram,</hi>
+                  <list>
+                     <item>Thus Wo Gregorian.</item>
+                     <item>I Georg was thro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'n.</item>
+                  </list>
+               </p>
+            </div>
+            <closer>
+               <signed>Jo. Booker.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
